@@ -1,6 +1,8 @@
 # Работаю с ветками
 
-## Заголовок 2
+## Links
+
+Для добавления ссылки пишем: [Ссылка на мой Github] (https://github.com/MaksFonyak?tab=repositories)
 
 ### Заголовок 3
 
